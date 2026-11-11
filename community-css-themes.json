@@ -144,6 +144,16 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "NeoPpuccin",
+    "author": "Edvard Radesey",
+    "repo": "notnotnescap/NeoPpuccin",
+    "screenshot": "assets/gh-preview.webp",
+    "modes": [
+      "dark",
+      "light"
+    ]
+  },
+  {
     "name": "Notation",
     "author": "deathau",
     "repo": "deathau/Notation-for-Obsidian",
